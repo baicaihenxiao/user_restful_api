@@ -45,3 +45,8 @@ user_api.sql
 
 >数据库中默认有一个用户名为：super 密码为：123456
 
+
+##### 4 .项目数据sql
+
+<https://blog.csdn.net/qq_33196814/article/details/102768517>
+![](csdn_blog.png)
